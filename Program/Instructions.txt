@@ -1,0 +1,2 @@
+The file StackArray.py is program of Stack implementation in python.
+It works as Module in Infix_to_postfix.py program.
